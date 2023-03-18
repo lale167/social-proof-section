@@ -241,15 +241,15 @@ a {
     }
 
     .card1 {
-        margin-top: clamp(2rem, -8.262140287769785rem + 10.79136690647482vw, 4.6875rem);
+        margin-top: clamp(2rem, -2.7369604316546763rem + 6.18705035971223vw, 4.6875rem);
     }
 
     .card2 {
-        margin-top: clamp(2rem, -11.566996402877699rem + 15.107913669064748vw, 6.5625rem);
+        margin-top: clamp(2rem, -6.04181654676259rem + 10.503597122302159vw, 6.5625rem);
     }
 
     .card3 {
-        margin-top: clamp(2rem, -14.871852517985612rem + 19.424460431654676vw, 8.4375rem);
+        margin-top: clamp(2rem, -9.346672661870503rem + 14.820143884892087vw, 8.4375rem);
     }
 
     .profile-info-container {
